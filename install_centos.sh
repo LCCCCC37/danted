@@ -360,6 +360,8 @@ ${CCYAN}+-----------------------------------------+$CEND
 ${CGREEN} Dante Socks5 Install Done. $CEND
 echo -e "交流Q群：745953525  -  唯一作者：1742500059
 优选服务器推荐：www.nxyidc.com"
+${CGREEN} 交流Q群：745953525  -  唯一作者：1742500059 $CEND
+${CGREEN} 优选服务器推荐：www.nxyidc.com $CEND
 ${CCYAN}+-----------------------------------------+$CEND
 ${CGREEN} Dante Version:       $CMAGENTA v${VERSION}$CEND
 ${CGREEN} Socks5 Info:         $CMAGENTA$CEND
